@@ -48,3 +48,8 @@ You can read our licenses here:
 ### Give a Star! ⭐ 
 If you like or are using this project to learn or start your solution, please give it a star. Thanks!
 
+#### Thak you note
+
+Thank you for working with this repo.
+
+
